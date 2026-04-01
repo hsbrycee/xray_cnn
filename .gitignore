@@ -1,0 +1,7 @@
+RX_1/
+RX_1.zip
+.venv/
+.venv*/
+venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+pydicom
+openpyxl
+scikit-learn
+tqdm
+ipykernel
